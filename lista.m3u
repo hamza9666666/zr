@@ -1,0 +1,205 @@
+#EXTM3U
+
+#EXTINF:0,Creada para ListasWiseplay.com 
+#EXTINF:0 type="stream" channelId="1320" name="SP - LA 1 HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/LA1HD.png", SP - LA 1 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21367.m3u8
+#EXTINF:0 type="stream" channelId="1321" name="SP - LA 2" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/LA2.png", SP - LA 2
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21366.m3u8
+#EXTINF:0 type="stream" channelId="2124" name="SP - ANTENA 3 HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/ANTENA3HD.png", SP - ANTENA 3 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21364.m3u8
+#EXTINF:0 type="stream" channelId="1678" name="SP - CUATRO HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CUATROHD.png", SP - CUATRO HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21363.m3u8
+#EXTINF:0 type="stream" channelId="2527" name="SP - TELECINCO HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/TELECINCOHD.png", SP - TELECINCO HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21362.m3u8
+#EXTINF:0 type="stream" channelId="1692" name="SP - LA SEXTA HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/LASEXTAHD.png", SP - LA SEXTA HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21365.m3u8
+#EXTINF:0 type="stream" channelId="4036" name="SP - PARAMOUNT" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/PARAMOUNT.png", SP - PARAMOUNT
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21280.m3u8
+#EXTINF:0 type="stream" channelId="1670" name="SP - CANAL SUR" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CANALSUR.png", SP - CANAL SUR
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21329.m3u8
+#EXTINF:0 type="stream" channelId="3639" name="SP - BE MAD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/BEMAD.png", SP - BE MAD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21335.m3u8
+#EXTINF:0 type="stream" channelId="3123" name="SP - 0 HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/0HD.png", SP - 0 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21341.m3u8
+#EXTINF:0 type="stream" channelId="1359" name="SP - M. ACCION HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.ACCIONHD.png", SP - M. ACCION HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21306.m3u8
+#EXTINF:0 type="stream" channelId="1366" name="SP - M. CINE ESP" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.CINEESP.png", SP - M. CINE ESP
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21305.m3u8
+#EXTINF:0 type="stream" channelId="1360" name="SP - M. COMEDIA HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.DEP2HD.png", SP - M. COMEDIA HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21304.m3u8
+#EXTINF:0 type="stream" channelId="1361" name="SP - M. DCINE HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.DCINEHD.png", SP - M. DCINE HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21303.m3u8
+#EXTINF:0 type="stream" channelId="3776" name="SP - M. DISNEY" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.DISNEY.png", SP - M. DISNEY
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21302.m3u8
+#EXTINF:0 type="stream" channelId="1378" name="SP - M. ESTRENOS HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.ESTRENOSHD.png", SP - M. ESTRENOS HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21301.m3u8
+#EXTINF:0 type="stream" channelId="4050" name="SP - M. XTRA HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/M.XTRAHD.png", SP - M. XTRA HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21295.m3u8
+#EXTINF:0 type="stream" channelId="3642" name="ES:Dark" group="ES" tvg-country="es", Dark
+http://movspain.com:25461/josetomas/josetomas/628
+#EXTINF:0 type="stream" channelId="1688" name="SP - HOLLYWOOD HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/HOLLYWOODHD.png", SP - HOLLYWOOD HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21356.m3u8
+#EXTINF:0 type="stream" channelId="177" name="SP - FOX HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/FOXHD.png", SP - FOX HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21344.m3u8
+#EXTINF:0 type="stream" channelId="178" name="SP - FOX LIFE HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/FOXLIFEHD.png", SP - FOX LIFE HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21343.m3u8
+#EXTINF:0 type="stream" channelId="1317" name="SP - FOX NEWS" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/FOXNEWS.png", SP - FOX NEWS
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21342.m3u8
+#EXTINF:0 type="stream" channelId="2501" name="SP - AMC HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/AMCHD.png", SP - AMC HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21340.m3u8
+#EXTINF:0 type="stream" channelId="1573" name="SP - AXN HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/AXN.png", SP - AXN HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21337.m3u8
+#EXTINF:0 type="stream" channelId="1573" name="SP - AXN" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/AXN.png", SP - AXN
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21338.m3u8
+#EXTINF:0 type="stream" channelId="1574" name="SP - AXN WHITE HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/AXNWHITEHD.png", SP - AXN WHITE HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21336.m3u8
+#EXTINF:0 type="stream" channelId="73" name="SP - SYFY HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/SYFYHD.png", SP - SYFY HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21279.m3u8
+#EXTINF:0 type="stream" channelId="895" name="SP - TCM HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/TCMHD.png", SP - TCM HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21278.m3u8
+#EXTINF:0 type="stream" channelId="1052" name="SP - TNT HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/TNTHD.png", SP - TNT HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21277.m3u8
+#EXTINF:0 type="stream" channelId="3462" name="SP - BLAZE" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/BLAZE.png", SP - BLAZE
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21334.m3u8
+#EXTINF:0 type="stream" channelId="1667" name="SP - CALLE 13 HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CALLE13HD.png", SP - CALLE 13 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21333.m3u8
+#EXTINF:0 type="stream" channelId="2825" name="SP - CANAL DECASA" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CANALDECASA.png", SP - CANAL DECASA
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21331.m3u8
+#EXTINF:0 type="stream" channelId="1698" name="SP - CANAL ODISEA" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CANALODISEA.png", SP - CANAL ODISEA
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21330.m3u8
+#EXTINF:0 type="stream" channelId="1665" name="SP - BOING" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/BOING.png", SP - BOING
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21352.m3u8
+#EXTINF:0 type="stream" channelId="1380" name="SP - CLAN TVE" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CLANTVE.png", SP - CLAN TVE
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21357.m3u8
+#EXTINF:0 type="stream" channelId="2823" name="SP - CANAL PANDA" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CANALPANDA.png", SP - CANAL PANDA
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21351.m3u8
+#EXTINF:0 type="stream" channelId="1190" name="SP - COMEDY CENTRAL HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CANALPANDA.png", SP - COMEDY CENTRAL HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21350.m3u8
+#EXTINF:0 type="stream" channelId="19" name="SP - DISNEY HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/DISNEYHD.png", SP - DISNEY HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21349.m3u8
+#EXTINF:0 type="stream" channelId="1197" name="SP - DISNEY JR" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/DISNEYJR.png", SP - DISNEY JR
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21348.m3u8
+#EXTINF:0 type="stream" channelId="1198" name="SP - DISNEY XD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/DISNEYXD.png", SP - DISNEY XD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21347.m3u8
+#EXTINF:0 type="stream" channelId="41" name="SP - NICKELODEON  HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/NICKELODEONHD.png", SP - NICKELODEON  HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21346.m3u8
+#EXTINF:0 type="stream" channelId="1677" name="SP - COSMO HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/COSMOHD.png", SP - COSMO HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21326.m3u8
+#EXTINF:0 type="stream" channelId="1189" name="SP - CRIMEN Y INVES" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/CRIMENYINVES.png", SP - CRIMEN Y INVES
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21325.m3u8
+#EXTINF:0 type="stream" channelId="1682" name="SP - DIVINITY" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/DIVINITY.png", SP - DIVINITY
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21324.m3u8
+#EXTINF:0 type="stream" channelId="57" name="SP - DISCOVERY" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/DISCOVERY.png", SP - DISCOVERY
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21285.m3u8
+#EXTINF:0 type="stream" channelId="2826" name="SP - HISTORIA" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/HISTORIA.png", SP - HISTORIA
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21315.m3u8
+#EXTINF:0 type="stream" channelId="56" name="SP - NAT GEO HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/NATGEOHD.png", SP - NAT GEO HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21284.m3u8
+#EXTINF:0 type="stream" channelId="164" name="SP - NAT GEO WILD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/NATGEOWILD.png", SP - NAT GEO WILD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21283.m3u8
+#EXTINF:0 type="stream" channelId="164" name="SP - NAT WILD HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/NATGEOWILD.png", SP - NAT WILD HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21282.m3u8
+#EXTINF:0 type="stream" channelId="151" name="SP - VH1" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/VH1.png", SP - VH1
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21276.m3u8
+#EXTINF:0 type="stream" channelId="1709" name="SP - VIAJAR HD" group="EU | SPAIN" logo="http://212.8.253.112/logo/SPAIN/VIAJARHD.png", SP - VIAJAR HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21275.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="SP - R. MADRID TV" group="EU | SPAIN" logo="http://185.79.114.21:88/logos/realmadrid.png", SP - R. MADRID TV
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21313.m3u8
+#EXTINF:-1,SP - IBERALIA
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21355.m3u8
+
+#EXTINF:-1,SP - BAR TV
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21314.m3u8
+#EXTINF:-1,SP - GOL
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21316.m3u8
+#EXTINF:-1,SP - #VAMOS HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60314.m3u8
+
+#EXTINF:-1,SP - BEIN LALIGA HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60328.m3u8
+#EXTINF:-1,SP - BEINLALIGA1 HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60327.m3u8
+#EXTINF:-1,SP - LALIGA TV BAR 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60347.m3u8
+#EXTINF:-1,SP - LALIGA123 TV 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60348.m3u8
+#EXTINF:-1,SP - LA LIGA 123 TV HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/29851.m3u8
+#EXTINF:-1,SP - LA LIGA HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21310.m3u8
+#EXTINF:-1,SP - LA LIGA TV HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21311.m3u8
+#EXTINF:-1,SP - M. FORMULA 1
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21299.m3u8
+#EXTINF:-1,SP - FORMULA 1 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21317.m3u8
+#EXTINF:-1,SP - M.FORMULA1 HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60300.m3u8
+#EXTINF:-1,SP - M. FTBOL HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21298.m3u8
+#EXTINF:-1,SP - M. GOLF HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21309.m3u8
+#EXTINF:-1,SP - M.CAMPEONES HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21321.m3u8
+#EXTINF:-1,SP - M.LCAMPEONES 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60299.m3u8
+#EXTINF:-1,SP - M.PARTIDAZO HD 
+http://tvservice.pro:80/918429204017/4ocqFSiirBhJ4xY/60298.m3u8
+#EXTINF:-1,SP - R. MADRID TV
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21313.m3u8
+#EXTINF:-1,SP - TOROS HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21312.m3u8
+
+#EXTINF:-1,SP - M. DEP2 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21293.m3u8
+#EXTINF:-1,SP - M. DEPORTE 1 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21292.m3u8
+#EXTINF:-1,SP - TELE DEPORTE
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21291.m3u8
+#EXTINF:-1,SP - EUROSPORT 1 HD
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21320.m3u8
+#EXTINF:-1,SP - EUROSPORT1 HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60360.m3u8
+#EXTINF:-1,SP - EUROSPORT 2
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21318.m3u8
+#EXTINF:-1,SP - EUROSPORT 2 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60331.m3u8
+
+
+#EXTINF:-1,SP - MEZZO LIVE HD 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60284.m3u8
+#EXTINF:-1,SP - MTV 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60283.m3u8
+#EXTINF:-1,SP - MTV DANCE 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60282.m3u8
+#EXTINF:-1,SP - MTV ESPAÑA 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60281.m3u8
+#EXTINF:-1,SP - MTV HITS 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60280.m3u8
+#EXTINF:-1,SP - MTV MUSIC 24 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60279.m3u8
+#EXTINF:-1,SP - MTV ROCKS 
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/60278.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES:Miami TV España" group="ES" tvg-country="es", Miami TV España
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
+#EXTINF:0 type="stream" channelId="2921" name="ES:DJING" group="ES" tvg-country="es", DJING
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0 type="stream" channelId="27" name="ES:MUSIC BOX" group="ES" tvg-country="es", MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3595" name="ES:TV 538" group="ES" tvg-country="es", TV 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES:TOP LATINO" group="ES" tvg-country="es", TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES:Teleritmo" group="ES" tvg-country="es", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="2285" name="ES:M2O TV" group="ES" tvg-country="es", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 type="stream" channelId="-1" name="ES:Music Top" group="ES" tvg-country="es", Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES:Portal FoxMix" group="ES" tvg-country="es", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1595" name="ES:RETRO MUSIC" group="ES" tvg-country="es", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES:Music Choice" group="ES" tvg-country="es", Music Choice
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
